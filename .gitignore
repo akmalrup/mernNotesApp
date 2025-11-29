@@ -1,0 +1,15 @@
+# backend
+backend/node_modules/
+backend/.env
+backend/.env.*
+
+# frontend (prep for later)
+frontend/node_modules/
+frontend/.env
+frontend/.env.*
+
+# root-level ignores
+node_modules/
+.env
+.env.*
+.DS_Store
